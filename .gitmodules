@@ -1,0 +1,3 @@
+[submodule "solidity.crowdcoin.contracts"]
+	path = solidity.crowdcoin.contracts
+	url = git@github.com:zjayers/solidity.crowdcoin.contracts
