@@ -1,8 +1,7 @@
 # Solidity Crowdcoin Ssr
-[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.crowdcoin.ssr.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.crowdcoin.ssr.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.crowdcoin.ssr.svg?style=flat)](https://github.com/zjayers/solidity.crowdcoin.ssr/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.crowdcoin.ssr.svg?style=flat)](https://github.com/zjayers/solidity.crowdcoin.ssr/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/solidity.crowdcoin.ssr.svg?maxAge=25000)](https://github.com/zjayers/solidity.crowdcoin.ssr/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/solidity.crowdcoin.ssr/blob/master/LICENSEs)
 
 ## Description
 
